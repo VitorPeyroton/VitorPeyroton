@@ -1,0 +1,14 @@
+{
+  "name": "VitorPeyroton",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Dev mode'",
+    "build": "echo 'Building...'",
+    "start": "echo 'Starting...'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
