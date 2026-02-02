@@ -7,10 +7,10 @@
 ##  About Me
 
 Fullstack Tech Leader with 10+ years of experience in:
-- 🛒 E-commerce scaling & complex operations
-- 🏗️ Scalable systems architecture (SaaS, multi-tenant)
-- 🎓 Mentoring entrepreneurs & tech teams
-- 🌐 Digital transformation & strategic alignment
+- E-commerce scaling & complex operations
+- Scalable systems architecture (SaaS, multi-tenant)
+- Mentoring entrepreneurs & tech teams
+- Digital transformation & strategic alignment
 
 ---
 
@@ -38,9 +38,9 @@ Fullstack Tech Leader with 10+ years of experience in:
 
 ## Connect
 
-📌 **[→ Full Profile](./index.html)** — Detailed resume, complete experience & skills  
-💻 **[Repository](https://github.com/VitorPeyroton/VitorPeyroton.git)**  
-🌐 **[GitHub Pages](https://vitorpeyroton.github.io/VitorPeyroton/)**
+**[→ Full Profile](./index.html)** — Detailed resume, complete experience & skills  
+**[Repository](https://github.com/VitorPeyroton/VitorPeyroton.git)**  
+**[GitHub Pages](https://vitorpeyroton.github.io/VitorPeyroton/)**
 
 ---
 
