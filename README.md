@@ -1,10 +1,10 @@
-# 👋 Vitor Peyroton
+# Vitor Peyroton
 
 > **Tech Leader • Full-stack • 10+ years scaling e-commerce & building scalable systems**
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 Fullstack Tech Leader with 10+ years of experience in:
 - 🛒 E-commerce scaling & complex operations
@@ -14,7 +14,7 @@ Fullstack Tech Leader with 10+ years of experience in:
 
 ---
 
-## 💼 Tech Stack
+## Tech Stack
 
 **Frontend:** React • Angular • Next.js • TypeScript  
 **Backend:** Node.js • Express • REST API • PostgreSQL • Prisma • PHP  
@@ -23,7 +23,7 @@ Fullstack Tech Leader with 10+ years of experience in:
 
 ---
 
-## 📚 Featured Projects
+## Featured Projects
 
 - **SaaS Flix** — Enterprise LMS with advanced RBAC
 - **Controller Finance** — Financial management SaaS with multi-gateway and API AI
@@ -36,7 +36,7 @@ Fullstack Tech Leader with 10+ years of experience in:
 
 ---
 
-## 🔗 Connect
+## Connect
 
 📌 **[→ Full Profile](./index.html)** — Detailed resume, complete experience & skills  
 💻 **[Repository](https://github.com/VitorPeyroton/VitorPeyroton.git)**  
