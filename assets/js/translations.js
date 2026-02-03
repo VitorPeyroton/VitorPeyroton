@@ -119,7 +119,7 @@ const translations = {
             },
             backend: {
                 category: "Backend",
-                skills: ["Node.js", "Express", "Prisma ORM", "PostgreSQL", "REST API"]
+                skills: ["Node.js", "Express", "Prisma ORM", "REST API"]
             },
             databases: {
                 category: "Bancos de Dados",
@@ -203,8 +203,8 @@ const translations = {
                 description: "Tech muda toda semana. Estou sempre testando, lendo, experimentando. O que funcionou ontem pode não funcionar hoje—preciso estar atualizado."
             },
             delivery: {
-                title: "⚡ Entrega & Execução",
-                description: "Soluções que funcionam em produção, considerando limitações reais: custo, tempo e complexidade. Foco em resultados práticos que agregam valor imediato."
+                title: "⚡ Execução & Entrega",
+                description: "Não complico o que pode ser simples. Defino prioridades, entrego o que prometo e aviso com antecedência se um prazo não vai fechar. Toda decisão técnica passa por uma pergunta: isso agrega valor agora ou é over-engineering?"
             }
         },
         contact: {
@@ -337,7 +337,7 @@ const translations = {
             },
             backend: {
                 category: "Backend",
-                skills: ["Node.js", "Express", "Prisma ORM", "PostgreSQL", "REST API"]
+                skills: ["Node.js", "Express", "Prisma ORM", "REST API"]
             },
             databases: {
                 category: "Databases",
@@ -421,8 +421,8 @@ const translations = {
                 description: "Tech changes every week. I'm always testing, reading, experimenting. What worked yesterday might not work today—I need to stay current."
             },
             delivery: {
-                title: "⚡ Delivery & Execution",
-                description: "Solutions that work in production, considering real constraints: cost, time, and complexity. Focus on practical results that deliver immediate value."
+                title: "⚡ Execution & Delivery",
+                description: "I don't overcomplicate what can be simple. I set priorities, deliver what I promise, and warn in advance if a deadline won't be met. Every technical decision goes through one question: does this add value now or is it over-engineering?"
             }
         },
         contact: {
