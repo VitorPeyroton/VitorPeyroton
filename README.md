@@ -18,7 +18,7 @@ Fullstack Tech Leader with 10+ years of experience in:
 
 **Frontend:** React • Angular • Next.js • TypeScript  
 **Backend:** Node.js • Express • REST API • PostgreSQL • Prisma • PHP  
-**DevOps:** Docker • AWS • GitHub Actions  
+**DevOps:** Docker • AWS • GitHub Actions • Linux • Cloud Deployment • VPS
 **Specialties:** Full-stack • Security • LGPD/GDPR • Performance
 
 ---
@@ -38,9 +38,7 @@ Fullstack Tech Leader with 10+ years of experience in:
 
 ## 🔗 Connect
 
-📌 **[→ Full Profile](./index.html)** — Detailed resume, complete experience & skills  
-💻 **[Repository](https://github.com/VitorPeyroton/VitorPeyroton.git)**  
-🌐 **[GitHub Pages](https://vitorpeyroton.github.io/VitorPeyroton/)**
+📌 **[→ Full Profile](https://resume.vitorpeyroton.com.br/)** — Detailed resume, complete experience & skills   
 
 ---
 
