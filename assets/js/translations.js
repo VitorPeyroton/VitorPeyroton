@@ -11,7 +11,7 @@ const translations = {
             title: "Experiência",
             ecommerce: {
                 title: "E-commerce & Digital Solutions",
-                period: "2012 - Presente",
+                period: "2015 - Presente",
                 description: "Mais de 10 anos liderando projetos de transformação digital.",
                 points: [
                     "Gestão 360° de e-commerces: de fabricação, estoque, processos, financeiro, marketing até tecnologia",
@@ -22,7 +22,7 @@ const translations = {
             },
             mentorship: {
                 title: "Mentoria & Liderança Técnica",
-                period: "2015 - Presente",
+                period: "2016 - Presente",
                 description: "Mentoria de empresários e líderes técnicos.",
                 points: [
                     "Consultoria em arquitetura de sistemas escaláveis",
@@ -33,7 +33,7 @@ const translations = {
             },
             saas: {
                 title: "SaaS & Arquitetura Escalável",
-                period: "2018 - Presente",
+                period: "2024 - Presente",
                 description: "Desenvolvimento de plataformas multi-tenant enterprise.",
                 points: [
                     "Arquitetura de SaaS com suporte a múltiplos tenants",
@@ -229,7 +229,7 @@ const translations = {
             title: "Experience",
             ecommerce: {
                 title: "E-commerce & Digital Solutions",
-                period: "2012 - Present",
+                period: "2015 - Present",
                 description: "Over 10 years leading digital transformation projects.",
                 points: [
                     "360° e-commerce management: from manufacturing, inventory, processes, finance, marketing to technology",
@@ -240,7 +240,7 @@ const translations = {
             },
             mentorship: {
                 title: "Mentorship & Technical Leadership",
-                period: "2015 - Present",
+                period: "2016 - Present",
                 description: "Mentoring entrepreneurs and technical leaders.",
                 points: [
                     "Consulting on scalable systems architecture",
@@ -251,7 +251,7 @@ const translations = {
             },
             saas: {
                 title: "SaaS & Scalable Architecture",
-                period: "2018 - Present",
+                period: "2024 - Present",
                 description: "Development of multi-tenant enterprise platforms.",
                 points: [
                     "Multi-tenant SaaS architecture",

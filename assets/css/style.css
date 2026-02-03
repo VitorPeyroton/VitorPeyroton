@@ -31,6 +31,8 @@ header {
     top: 0;
     z-index: 100;
     background-color: var(--dark-blue);
+    transform: translateY(0);
+    transition: transform 0.3s ease;
 }
 
 .logo {
@@ -605,12 +607,42 @@ footer a:hover {
     }
 
     header {
-        flex-direction: column;
+        flex-direction: row;
         gap: 1rem;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1.5rem 5%;
     }
 
-    .lang-toggle {
-        width: 100%;
+    .logo {
+        flex: 1;
+        text-align: left;
+        font-size: 1.2rem;
+    }
+
+    .lang-toggle-container {
+        flex: 1;
+        justify-content: flex-end;
+        gap: 0.6rem;
+    }
+
+    .lang-label {
+        font-size: 0.75rem;
+        min-width: 40px;
+    }
+
+    .toggle-slider {
+        width: 40px;
+        height: 24px;
+    }
+
+    .toggle-slider::after {
+        width: 18px;
+        height: 18px;
+    }
+
+    .lang-toggle input:checked + .toggle-slider::after {
+        transform: translateX(16px);
     }
 }
 
