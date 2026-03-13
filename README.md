@@ -6,7 +6,7 @@
 
 ##  About Me
 
-Fullstack Tech Leader with 10+ years of experience in:
+Fullstack Tech Leader with 3+ years of experience in:
 - E-commerce scaling & complex operations
 - Scalable systems architecture (SaaS, multi-tenant)
 - Mentoring entrepreneurs & tech teams
